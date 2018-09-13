@@ -1,0 +1,12 @@
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\bin\Debug\netstandard2.0\TestCustomVision.deps.json
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\bin\Debug\netstandard2.0\TestCustomVision.dll
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\bin\Debug\netstandard2.0\TestCustomVision.pdb
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.csproj.CoreCompileInputs.cache
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.AssemblyInfoInputs.cache
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.AssemblyInfo.cs
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.dll
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.pdb
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\julio.leal\source\repos\TestCustomVision\TestCustomVision\TestCustomVision\obj\Debug\netstandard2.0\TestCustomVision.csprojAssemblyReference.cache
