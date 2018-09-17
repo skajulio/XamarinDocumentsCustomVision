@@ -92,7 +92,7 @@
           "lib/xamarinios10/Plugin.Media.dll": {}
         }
       },
-      "Xamarin.Forms/3.2.0.809874-pre3": {
+      "Xamarin.Forms/3.2.0.839982": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -223,7 +223,7 @@
           "Microsoft.Net.Http": "2.2.29",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.2.0.809874-pre3"
+          "Xamarin.Forms": "3.2.0.839982"
         },
         "compile": {
           "bin/placeholder/TestCustomVision.dll": {}
@@ -324,7 +324,7 @@
           "lib/xamarinios10/Plugin.Media.dll": {}
         }
       },
-      "Xamarin.Forms/3.2.0.809874-pre3": {
+      "Xamarin.Forms/3.2.0.839982": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -455,7 +455,7 @@
           "Microsoft.Net.Http": "2.2.29",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.2.0.809874-pre3"
+          "Xamarin.Forms": "3.2.0.839982"
         },
         "compile": {
           "bin/placeholder/TestCustomVision.dll": {}
@@ -556,7 +556,7 @@
           "lib/xamarinios10/Plugin.Media.dll": {}
         }
       },
-      "Xamarin.Forms/3.2.0.809874-pre3": {
+      "Xamarin.Forms/3.2.0.839982": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -687,7 +687,7 @@
           "Microsoft.Net.Http": "2.2.29",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.2.0.809874-pre3"
+          "Xamarin.Forms": "3.2.0.839982"
         },
         "compile": {
           "bin/placeholder/TestCustomVision.dll": {}
@@ -788,7 +788,7 @@
           "lib/xamarinios10/Plugin.Media.dll": {}
         }
       },
-      "Xamarin.Forms/3.2.0.809874-pre3": {
+      "Xamarin.Forms/3.2.0.839982": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -919,7 +919,7 @@
           "Microsoft.Net.Http": "2.2.29",
           "Newtonsoft.Json": "11.0.2",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.2.0.809874-pre3"
+          "Xamarin.Forms": "3.2.0.839982"
         },
         "compile": {
           "bin/placeholder/TestCustomVision.dll": {}
@@ -1211,10 +1211,10 @@
         "xam.plugin.media.nuspec"
       ]
     },
-    "Xamarin.Forms/3.2.0.809874-pre3": {
-      "sha512": "wp3vSLE/buUaSKW4gSMXQqISjLzpWiS3g61kWhTLHAgErx30WpG/UiI7pLfwLsoksf79fTOyy/M11ClLbTcxHQ==",
+    "Xamarin.Forms/3.2.0.839982": {
+      "sha512": "BtiTMpmTqkzPPlGvQEVrO51kC1e/vieOaGHB+bKUULER0ruf2EQ92zVRwuvLop60g0WQQJ0Arj45TNCu6qCINQ==",
       "type": "package",
-      "path": "xamarin.forms/3.2.0.809874-pre3",
+      "path": "xamarin.forms/3.2.0.839982",
       "files": [
         ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
@@ -1356,7 +1356,7 @@
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.2.0.809874-pre3.nupkg.sha512",
+        "xamarin.forms.3.2.0.839982.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1371,7 +1371,7 @@
       "Acr.UserDialogs >= 7.0.1",
       "TestCustomVision >= 1.0.0",
       "Xam.Plugin.Media >= 4.0.1.5",
-      "Xamarin.Forms >= 3.2.0.809874-pre3"
+      "Xamarin.Forms >= 3.2.0.839982"
     ]
   },
   "packageFolders": {
@@ -1421,7 +1421,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.2.0.809874-pre3, )"
+            "version": "[3.2.0.839982, )"
           }
         }
       }

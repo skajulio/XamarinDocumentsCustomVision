@@ -16,7 +16,8 @@
     </Page.Resources>
 
     <StackLayout Padding="20">
-        <Image x:Name="ImgSource" Source="icon.png" MinimumHeightRequest="100"
+        <Image x:Name="ImgSource" Source="icon.png" 
+               MinimumHeightRequest="100"
                MinimumWidthRequest="100"
                HorizontalOptions="Center"/>
 
